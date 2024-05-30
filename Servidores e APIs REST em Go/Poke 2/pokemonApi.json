@@ -1,0 +1,39 @@
+{
+    "pokemon_entries": [
+        {
+            "entry_number": 1,
+            "pokemon_species": {
+                "poke_name": "bulbasaur",
+                "poke_url": "https://pokeapi.co/api/v2/pokemon-species/1"
+            }
+        },
+        {
+            "entry_number": 2,
+            "pokemon_species": {
+                "poke_name": "ivysaur",
+                "poke_url": "https://pokeapi.co/api/v2/pokemon-species/2"
+            }
+        },
+        {
+            "entry_number": 3,
+            "pokemon_species": {
+                "poke_name": "venusaur",
+                "poke_url": "https://pokeapi.co/api/v2/pokemon-species/3"
+            }
+        },
+        {
+            "entry_number": 4,
+            "pokemon_species": {
+                "poke_name": "charmander",
+                "poke_url": "https://pokeapi.co/api/v2/pokemon-species/4"
+            }
+        },
+        {
+            "entry_number": 5,
+            "pokemon_species": {
+                "poke_name": "charmeleon",
+                "poke_url": "https://pokeapi.co/api/v2/pokemon-species/5"
+            }
+        }
+    ]
+}
